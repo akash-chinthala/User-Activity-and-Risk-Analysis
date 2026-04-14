@@ -46,6 +46,10 @@ Note: The dataset is a sample (~7,000 records) designed to demonstrate the full 
 
 📊 Dashboard — User Activity & Risk Overview
 
+ 📊 Power BI Dashboard
+
+![User Activity Dashboard](Power%20Bi%20Dash/dash_img.png)
+
 KPI Summary
 
 → Total Users: 2,165
